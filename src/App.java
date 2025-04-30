@@ -23,11 +23,11 @@ public class App {
                         java.util.Arrays.toString(arregloBurbujaOrdenado1));
 
         // // Metodo burbujaTradicionalSegundo
-        // int[] arregloBurbujaOrdenado2 =
-        // ordenador.burbujaTradicionalSegundo(arregloBurbuja);
-        // System.out.println(
-        // "Resultado burbuja tradicional Metodo 2: " +
-        // java.util.Arrays.toString(arregloBurbujaOrdenado2));
+        /*int[] arregloBurbujaOrdenado2 =
+        ordenador.burbujaTradicionalSegundo(arregloBurbuja);
+        System.out.println(
+        "Resultado burbuja tradicional Metodo 2: " +
+        java.util.Arrays.toString(arregloBurbujaOrdenado2));*/
 
         // // // Metodo burbujaTradicionalTercero
         // int[] arregloBurbujaOrdenado3 =
@@ -58,11 +58,11 @@ public class App {
         // java.util.Arrays.toString(arregloSeleccionOrdenado3));
 
         // // Metodo insercionPrimero
-        // int[] arregloInsercionOrdenado1 =
-        // ordenador.insercionPrimero(arregloInsercion);
-        // System.out.println(
-        // "Resultado selección Metodo 1: " +
-        // java.util.Arrays.toString(arregloInsercionOrdenado1));
+         int[] arregloInsercionOrdenado1 =
+         ordenador.insercionPrimero(arregloInsercion);
+         System.out.println(
+         "Resultado selección Metodo 1: " +
+         java.util.Arrays.toString(arregloInsercionOrdenado1));
 
         // // Metodo insercionSegundo
         // int[] arregloInsercionOrdenado2 =

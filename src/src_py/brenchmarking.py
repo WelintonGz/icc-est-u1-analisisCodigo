@@ -4,6 +4,10 @@ import time
 
 class Brenchmarking:
     
+    def__init__(sefl):
+        print("Bemchmarking instanciado")
+    
+
     def __init__(self):
         print("Brenchmarking")
         mb.metodos_ordenamiento()
